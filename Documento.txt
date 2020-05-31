@@ -1,0 +1,13 @@
+﻿Escrito en el documento
+vaya, aqu� puede haber algo
+
+Esta es el documento para la primer rama
+Vaya, aqu� no he escrito nada triste...
+Despúes de el git merge este párrafo perdió sentido, como mi vida
+
+Inicio del segundo intento
+Cada d�a mi vida pierde m�s sentido
+Aunque a veces toca cuestionarse si en alg�n momento lo tuvo
+Cada d�a mi vida pierde m�s sentido
+He empezado a entender muchas cosas que creo que sab�a, pero en el fondo no hab�a experimentado
+Se supone que la vida contin�a?

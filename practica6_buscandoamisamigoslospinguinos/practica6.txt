@@ -1,0 +1,4 @@
+\[\+672 [1-9]{10}\] (Skipper|Kowalski|Cabo|Rico)
+
+[+672 7473935113] Rico
+[+672 8766764155] Kowalski

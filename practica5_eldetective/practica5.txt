@@ -1,0 +1,11 @@
+^([Dd]rogas) ([0-2][1-9]|3[0-1])\/(0[1-9]|1[0-2])\/(2(00[5-9]|[1-9][0-9][0-9])|[3-9][0-9]{3})
+
+Drogas 22/10/2008 Hernández, Ernesto
+Drogas 16/03/2005 Pérez, Ratón
+Drogas 17/12/2006 Cebolla, Shrek
+Drogas 27/11/2009 Bond, James
+Drogas 30/10/2006 López, Ana
+Drogas 02/01/2006 Juárez, Benito
+Drogas 07/03/2005 López-Gatell, Ana
+Drogas 27/02/2111 Pérez, Ernesto
+Drogas 06/07/2008 Shang, Jorge
