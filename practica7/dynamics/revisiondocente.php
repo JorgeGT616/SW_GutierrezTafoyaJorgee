@@ -17,7 +17,6 @@
     }
 
     //Filtro 1
-
     //Este arreglo contiene contraseñas especialmente comunes y por lo tanto vulnerables
     $contcomunes = array("1234567890","0987654321","qwertyuiop","asdfghjklñ","zxcvbnm",
       "123456","654321","1234567","7654321","12345678","87654321","123456789","987654321",
