@@ -23,7 +23,7 @@
   <fieldset width: 80%>
     <legend><h2>Texto Inicial</h2></legend>";
     //Se imprime el texto original
-    echo "<fieldset style = 'background-color:#FFFFFF;' width: 75%><p>".$texto."</p></fieldset>";
+    echo "<fieldset style= 'background-color:#FFFFFF;' width: 75%><p>".$texto."</p></fieldset>";
   echo "
   </fieldset>";
   echo "
